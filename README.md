@@ -5,7 +5,7 @@
     <img src="img/k-on-yui-hirasawa.gif" width="80px">
  
 - 🏷 I am currently studying web development. / Actualmente estoy estudiando desarrollo web.
-- 🌱 I’m currently learning Javascript. / Actualmente estoy aprendiendo Javascript.                            
+- 🌱 I’m learning Javascript. / Estoy aprendiendo Javascript.                            
 - 👯 I’m looking to collaborate on projects open source. / Busco colaborar en proyectos de código abierto.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything you want to know about me. / Pregúntame todo lo que quieras saber sobre mí.
