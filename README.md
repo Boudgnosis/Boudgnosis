@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hi, i'm Juan Duque     
+- Hi, i'm Juan Duque 
+    
  <img src="img/k-on-yui-hirasawa.gif" width="80px">
 - 🏷 I am currently studying web development.
 - 🌱 I’m currently learning Javascript.                         
