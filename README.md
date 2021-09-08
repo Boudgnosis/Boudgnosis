@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything you want to know about me.
 - 📫 How to reach me: juanpablo_ariasduque@protonmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he
 - ⚡ Fun fact: In Cartagena de Indias the sea lights up
 
 ### Stats
