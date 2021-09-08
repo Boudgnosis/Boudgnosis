@@ -17,11 +17,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boudgnosis&show_icons=true&theme=radical)
 
-### technologies
-<img src="img/javascript.svg.png" width="50px"> <img src="img/CSS.png" width="90px">
-<img src="img/pngegg.png" width="40px"> <br> 
-<img src="img/python-logo.png" width="50px">
-<img src="img/pokemon-lugia.gif" width="30px">
+<img src="https://reygif.com/media/4/pokemon-lugia-54430.gif" width="30px">
 
 
 
