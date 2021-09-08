@@ -17,10 +17,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boudgnosis&show_icons=true&theme=radical)
 
-### technologies and tools
+### technologies
 <img src="img/javascript.svg.png" width="50px"> <img src="img/CSS.png" width="90px">
 <img src="img/pngegg.png" width="40px"> <br> 
 <img src="img/python-logo.png" width="50px">
+<img src="kyubey.gif">
 
 
 
