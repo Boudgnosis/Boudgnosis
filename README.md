@@ -17,7 +17,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boudgnosis&show_icons=true&theme=radical)
 
-<img src="https://reygif.com/media/4/pokemon-lugia-54430.gif" width="30px">
+<img src="https://reygif.com/media/4/pokemon-lugia-54430.gif" width="80px">
 
 
 
