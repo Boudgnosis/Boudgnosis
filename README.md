@@ -16,6 +16,8 @@
 ### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boudgnosis&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boudgnosis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://reygif.com/media/4/pokemon-lugia-54430.gif" width="80px">
 
