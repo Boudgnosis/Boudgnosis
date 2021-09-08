@@ -18,7 +18,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boudgnosis&show_icons=true&theme=radical)
 
 ### technologies and tools
-<img src="img/javascript.svg" width="70px">
+<img src="img/javascript.svg" width="70px" color="#fff">
 
 
 
