@@ -7,7 +7,7 @@
 - 🏷 I am currently studying web development. / Actualmente estoy estudiando desarrollo web.
 - 🌱 I’m learning Javascript. / Estoy aprendiendo Javascript.                            
 - 👯 I’m looking to collaborate on projects open source. / Busco colaborar en proyectos de código abierto.
-- 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything you want to know about me. / Pregúntame todo lo que quieras saber sobre mí.
 - 📫 How to reach me: juanpablo_ariasduque@protonmail.com
 - 😄 Pronoun: he /  Pronombre: él
