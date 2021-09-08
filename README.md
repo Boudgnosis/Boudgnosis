@@ -4,14 +4,14 @@
     
     <img src="img/k-on-yui-hirasawa.gif" width="80px">
  
-- 🏷 I am currently studying web development.
-- 🌱 I’m currently learning Javascript.                         
-- 👯 I’m looking to collaborate on projects open source.
+- 🏷 I am currently studying web development. / Actualmente estoy estudiando desarrollo web.
+- 🌱 I’m currently learning Javascript. / Actualmente estoy aprendiendo Javascript.                            
+- 👯 I’m looking to collaborate on projects open source. / Busco colaborar en proyectos de código abierto.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about anything you want to know about me.
+- 💬 Ask me about anything you want to know about me. / Pregúntame todo lo que quieras saber sobre mí.
 - 📫 How to reach me: juanpablo_ariasduque@protonmail.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: In Cartagena de Indias the sea lights up
+- 😄 Pronoun: he /  Pronombre: él
+- ⚡ Fun fact: In Cartagena de Indias the sea lights up /  Dato curioso: En Cartagena de Indias el mar se ilumina
 
 ### Stats
 
