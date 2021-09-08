@@ -21,7 +21,7 @@
 <img src="img/javascript.svg.png" width="50px"> <img src="img/CSS.png" width="90px">
 <img src="img/pngegg.png" width="40px"> <br> 
 <img src="img/python-logo.png" width="50px">
-<img src="pokemon-lugia.gif">
+<img src="pokemon-lugia.gif" width="30px">
 
 
 
