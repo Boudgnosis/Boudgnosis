@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Hi, i'm Juan Duque
+Hi, i'm Juan Duque      <img src="img/k-on-yui-hirasawa.gif" width="80px">
 
 Here are some ideas to get you started:
 
 - 🏷 I am currently studying web development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript.                         
 - 👯 I’m looking to collaborate on projects open source.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything you want to know about me.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boudgnosis&show_icons=true&theme=radical)
 
-<img src="img/k-on-yui-hirasawa.gif" width="30px">
+
 
 
 
