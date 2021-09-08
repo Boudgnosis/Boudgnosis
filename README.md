@@ -19,7 +19,7 @@
 
 ### technologies and tools
 <img src="img/javascript.svg.png" width="50px"> <img src="img/CSS.png" width="90px">
-<img src="img/html.png" width="50px">
+<img src="img/pngegg.png" width="50px">
 
 
 
