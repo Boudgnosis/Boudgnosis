@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boudgnosis&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boudgnosis&show_icons=true&theme=radical)
+
 
 
 
