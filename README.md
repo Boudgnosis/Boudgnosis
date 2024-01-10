@@ -2,7 +2,7 @@
 
 ## Hi, i'm Juan Duque 
     
- <img src="img/Screenshot 2024-01-09 195443.png">
+ <img src="Banner.png">
  
 - 🏷 I am currently studying web development. / Actualmente estoy estudiando desarrollo web.
 - 🌱 I’m learning Javascript. / Estoy aprendiendo Javascript.                            
@@ -20,6 +20,3 @@
 
 
 <img src="https://reygif.com/media/4/pokemon-lugia-54430.gif" width="80px">
-
-
-<a href="https://es.stackoverflow.com/users/253032/juan-pablo-arias-duque"><img src="https://es.stackoverflow.com/users/flair/253032.png" width="208" height="58" alt="perfil para Juan Pablo Arias Duque en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica" title="perfil para Juan Pablo Arias Duque en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica"></a>
