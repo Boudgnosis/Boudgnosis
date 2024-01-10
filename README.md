@@ -2,7 +2,7 @@
 
 ## Hi, i'm Juan Duque 
     
- <img src="Banner.png">
+ <img src="./img/Banner.png">
  
 - 🏷 I am currently studying web development. / Actualmente estoy estudiando desarrollo web.
 - 🌱 I’m learning Javascript. / Estoy aprendiendo Javascript.                            
