@@ -2,7 +2,7 @@
 
 ## Hi, i'm Juan Duque 
     
- <img src="img/k-on-yui-hirasawa.gif" width="80px">
+ <img src="img/Screenshot 2024-01-09 195443.png">
  
 - 🏷 I am currently studying web development. / Actualmente estoy estudiando desarrollo web.
 - 🌱 I’m learning Javascript. / Estoy aprendiendo Javascript.                            
