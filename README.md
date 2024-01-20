@@ -59,12 +59,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boudgnosis&hide_border=true&layout=compact" align="center" /></div>  
-
 <br/>  
 
 
 ## Recent Blog Posts  
 - [Como hacer un generador de contraseñas](https://dev.to/juan_duque/como-hacer-un-generador-ed-contrasenas-con-python-og2)
 
-- [omo animar un corazón con keyframes (Básico)](https://dev.to/juan_duque/como-animar-un-corazon-con-keyframes-basico-fbe)
+- [Como animar un corazón con keyframes (Básico)](https://dev.to/juan_duque/como-animar-un-corazon-con-keyframes-basico-fbe)
