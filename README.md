@@ -65,7 +65,6 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+- [Como hacer un generador de contraseñas](https://dev.to/juan_duque/como-hacer-un-generador-ed-contrasenas-con-python-og2)
 
+- [omo animar un corazón con keyframes (Básico)](https://dev.to/juan_duque/como-animar-un-corazon-con-keyframes-basico-fbe)
