@@ -31,3 +31,8 @@ I am a Python-focused developer, constantly honing my skills while learning new 
 - [Como hacer un generador de contraseñas](https://dev.to/juan_duque/como-hacer-un-generador-ed-contrasenas-con-python-og2)
 
 - [Como animar un corazón con keyframes (Básico)](https://dev.to/juan_duque/como-animar-un-corazon-con-keyframes-basico-fbe)
+
+## Certifications
+
+- [Introduction to back-end development](https://www.coursera.org/account/accomplishments/records/VCMXKA01N2NC) - Meta, 2024
+- [Programming in Python](https://www.coursera.org/account/accomplishments/records/9GZYIR14NKQK) - Meta, 2024
