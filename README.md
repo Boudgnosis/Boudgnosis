@@ -10,7 +10,7 @@ I am a Python-focused developer, constantly honing my skills while learning new 
 
 ## Connect with Me
 
-[GitHub](https://github.com/boudgnosis)  |  [Linktree](https://linktr.ee/Boudgnosis) | [CodePen](https://codepen.io/https://codepen.io/boudgnosis) | [dev.to](https://dev.to/https://dev.to/juan_duque) | [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/jpariasduque/)|  🌍  Let's collaborate!
+[GitHub](https://github.com/boudgnosis)  |  [Linktree](https://linktr.ee/Boudgnosis) | [CodePen](https://codepen.io/boudgnosis) | [dev.to](https://dev.to/juan_duque) | [Linkedin](https://www.linkedin.com/in/jpariasduque/)|  🌍  Let's collaborate!
 
 
 ## Skills & Technologies
