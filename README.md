@@ -16,16 +16,11 @@ I am a Python-focused developer, constantly honing my skills while learning new 
 [GitHub](https://github.com/boudgnosis)  |  [Linktree](https://linktr.ee/Boudgnosis) | [CodePen](https://codepen.io/boudgnosis) | [dev.to](https://dev.to/juan_duque) | [Linkedin](https://www.linkedin.com/in/jpariasduque/)|  🤝  Let's collaborate!
 
 <h2 style="color:aquamarine">Skills & Technologies<img src="img/aeb9Cxe.gif" width="80"></h2>
+
 >[!NOTE]
->The icons are white and will not be seen if you do not use GitHub's dark mode..
-<divstyle="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<img title="Python" src="img/python.svg" height="32" width="32">
-<img title="Django" src="img/django.svg" height="32" width="32">
-<img title="PostgreSQL" src="img/postgresql.svg" height="32" width="32">
-<img title="HTML5" src="img/html5.svg" height="32" width="32">
-<img title="CSS3" src="img/css3.svg" height="32" width="32">
-<img title="Git" src="img/git.svg" height="32" width="32"> 
-</div>
+>The icons are white and will not be seen if you do not use GitHub's dark mode.
+
+<img title="Python" src="img/python.svg" height="32" width="32"><img title="Django" src="img/django.svg" height="32" width="32"><img title="PostgreSQL" src="img/postgresql.svg" height="32" width="32"><img title="HTML5" src="img/html5.svg" height="32" width="32"><img title="CSS3" src="img/css3.svg" height="32" width="32"><img title="Git" src="img/git.svg" height="32" width="32"> 
 
 <details>
 <summary style="color:blanchedalmond;">
