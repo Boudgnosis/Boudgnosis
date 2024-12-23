@@ -58,9 +58,9 @@ exciting and I am always up for new challenges. 💚💙❤️💛💜
     <img src="img/anime-cute.gif" width="80" title="Anime girl" alt="Anime girl sitting drinking">
 </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=boudgnosis&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=boudgnosis&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=boudgnosis&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![app](https://github-readme-stats.vercel.app/api?username=boudgnosis&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![app](https://github-readme-streak-stats.herokuapp.com/?user=boudgnosis&theme=dark&hide_border=true)<br/>
+![app](https://github-readme-stats.vercel.app/api/top-langs/?username=boudgnosis&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <h2>Recent Blog Posts
     <img src="img/anime-escritor.gif" width="80" title="Anime girl" alt="anime girl sitting typing on her laptop">
